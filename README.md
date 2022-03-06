@@ -14,9 +14,12 @@
 <br>
 <details>
 <summary><a href="#"><img src = "./img_sources/workingBuddy.gif" width="30px" style="vertical-align:top"></a>
-&nbsp;<b>Last Week Activity</b></summary>
+&nbsp;<b>Last Week & Total Activity</b></summary>
 <a href="#"><img width="100%" alt="Last Week Coding Stats" src="./metrics.plugin.wakatime.svg"></a>
 <br>
+<div style="text-align:center">
+<p align="center" style="font-size:12px">Total Activity since I installed Wakatime on my profile.</p>
+</div>
 <!--START_SECTION:waka-->
 
 ```text
