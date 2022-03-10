@@ -18,7 +18,7 @@
 <a href="#"><img width="100%" alt="Last Week Coding Stats" src="./metrics.plugin.wakatime.svg"></a>
 <br>
 <div style="text-align:center">
-<p align="center" style="font-size:12px">Which Language did I worked with this week ?</p>
+<p align="center" style="font-size:12px">Which development language did I use the most this week ?</p>
 </div>
 <!--START_SECTION:waka-->
 
