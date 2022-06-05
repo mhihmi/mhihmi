@@ -13,7 +13,7 @@
 </details>
 <br>
 <details>
-<summary><a href="#"><img src = "./img_sources/workingBuddy.gif" width="30px" style="vertical-align:top"></a>
+<summary><a href="#"><img src = "./img_sources/workingBuddy.gif" width="30" style="vertical-align:top"></a>
 &nbsp;<b>Last Week Activity</b></summary>
 <a href="#"><img width="100%" alt="Last Week Coding Stats" src="./metrics.plugin.wakatime.svg"></a>
 <br>
@@ -41,7 +41,7 @@ CSS          4 mins          ░░░░░░░░░░░░░░░░░
 <br>
 
 <details>
-<summary>&nbsp;&nbsp;<a href="#"><img src="./img_sources/githubAnimated.gif" width="25px" style="vertical-align: middle"></a>&nbsp; <b>My GitHub Stats & Repositories Traffic</b>  
+<summary>&nbsp;&nbsp;<a href="#"><img src="./img_sources/githubAnimated.gif" width="25" style="vertical-align: middle"></a>&nbsp; <b>My GitHub Stats & Repositories Traffic</b>  
 </summary>
 
 <br>
@@ -74,7 +74,7 @@ CSS          4 mins          ░░░░░░░░░░░░░░░░░
 <br>
 
 <details>
-<summary>&nbsp;<a href="#"><img src = "./img_sources/tagAnimated.gif" width="30px" style="vertical-align:top"></a>&nbsp;&nbsp;<b>Languages & Tools</b></summary>
+<summary>&nbsp;<a href="#"><img src = "./img_sources/tagAnimated.gif" width="30" style="vertical-align:top"></a>&nbsp;&nbsp;<b>Languages & Tools</b></summary>
 <br>
 <div align="center">
 <a href="#"><img width ="30px" src ="./img_sources/git.svg"></a>&nbsp;
