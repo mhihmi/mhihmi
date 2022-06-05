@@ -4,7 +4,7 @@
 </p>
 
 
-<a href="#"><img src ="./img_sources/aboutMe.gif" width="100px" alt="General Github Informations"></a>
+<a href="#"><img src ="./img_sources/aboutMe.gif" width="100" alt="General Github Informations"></a>
 
 <details>
 <summary>&nbsp;&nbsp;<a href="#"><img src="./img_sources/MedLogo.png" width="20px" style="vertical-align:middle"></a>
