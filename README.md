@@ -23,13 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
-
-Total Time: 4 hrs 1 min
-
-SCSS         3 hrs 7 mins    ███████████████████▒░░░░░   77.44 %
-Vue.js       54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
