@@ -23,12 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 09 August 2022
-
-Total Time: 0 secs
-
-JavaScript   0 secs          ██████████████████▒░░░░░░   73.82 %
-Vue.js       0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
