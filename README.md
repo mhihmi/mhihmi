@@ -23,7 +23,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 August 2022 - To: 13 August 2022
+
+Total Time: 1 hr 6 mins
+
+Vue.js       2 hrs 7 mins    ████████████████████████░   96.00 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
