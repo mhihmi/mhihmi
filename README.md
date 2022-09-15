@@ -23,14 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-Total Time: 3 hrs 33 mins
+Total Time: 2 hrs 13 mins
 
-Vue.js       3 hrs 3 mins    █████████████████████▓░░░   86.03 %
-SCSS         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Vue.js       1 hr 49 mins    ████████████████████▒░░░░   81.81 %
+SCSS         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+JavaScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 ```
 
 <!--END_SECTION:waka-->
