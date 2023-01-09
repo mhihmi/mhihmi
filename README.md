@@ -23,12 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 07 January 2023
+From: 01 January 2023 - To: 08 January 2023
 
-Total Time: 25 mins
+Total Time: 26 mins
 
-JSON         17 mins         █████████████████▒░░░░░░░   68.74 %
-JavaScript   8 mins          ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+JSON         17 mins         █████████████████░░░░░░░░   68.56 %
+JavaScript   8 mins          ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
