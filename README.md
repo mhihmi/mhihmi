@@ -23,13 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
-
-Total Time: 5 mins
-
-HTML         3 mins          ███████████████░░░░░░░░░░   60.09 %
-JavaScript   1 min           ███████▒░░░░░░░░░░░░░░░░░   28.87 %
-CSS          0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
