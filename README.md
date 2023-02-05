@@ -23,12 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
-
-Total Time: 1 hr 56 mins
-
-Vue.js   1 hr 56 mins    █████████████████████████   99.93 %
-SCSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
