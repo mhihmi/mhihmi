@@ -23,11 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-Total Time: 0 secs
+Total Time: 42 mins
 
-No activity tracked
+Vue.js       23 mins         █████████████▒░░░░░░░░░░░   53.73 %
+Markdown     13 mins         ████████░░░░░░░░░░░░░░░░░   31.70 %
+JSON         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+TSConfig     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
