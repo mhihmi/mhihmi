@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2023 - To: 29 March 2023
+From: 23 March 2023 - To: 30 March 2023
 
-Total Time: 15 hrs 58 mins
+Total Time: 22 hrs 30 mins
 
-JavaScript   14 hrs 46 mins  ██████████████████████▒░░   89.81 %
-JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JavaScript   21 hrs 38 mins  ███████████████████████▓░   94.16 %
+JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
