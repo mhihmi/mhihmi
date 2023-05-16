@@ -23,11 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2023 - To: 14 May 2023
+From: 08 May 2023 - To: 15 May 2023
 
-Total Time: 0 secs
+Total Time: 1 hr 31 mins
 
-No activity tracked
+TypeScript   45 mins         ████████████▒░░░░░░░░░░░░   49.99 %
+SCSS         18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+JavaScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Vue.js       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+JSON         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->
