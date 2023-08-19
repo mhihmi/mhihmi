@@ -23,14 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-Total Time: 7 hrs 10 mins
+Total Time: 0 secs
 
-JavaScript   6 hrs 41 mins   ███████████████████████▒░   93.10 %
-JSON         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
