@@ -23,14 +23,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
-Total Time: 20 hrs 54 mins
+Total Time: 24 hrs 8 mins
 
-JavaScript   20 hrs          ████████████████████████░   95.71 %
-JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   23 hrs 30 mins  ████████████████████████▒   97.38 %
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
