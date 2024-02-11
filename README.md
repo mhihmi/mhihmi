@@ -47,7 +47,7 @@ Markdown     5 mins          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=mhihmi)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=mhihmi)
 
 </div>
 
