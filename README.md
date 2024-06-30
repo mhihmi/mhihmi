@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 28 June 2024
+From: 22 June 2024 - To: 29 June 2024
 
-Total Time: 15 hrs 56 mins
+Total Time: 11 hrs 42 mins
 
-SCSS          7 hrs 8 mins    ███████████░░░░░░░░░░░░░░   43.61 %
-HTML          2 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-JSON          2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-TypeScript    1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Astro         1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+TypeScript    2 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+SCSS          2 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+HTML          2 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+JSON          1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Astro         1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
 ```
 
 <!--END_SECTION:waka-->
