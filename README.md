@@ -68,6 +68,16 @@ JSON          23 mins         ▒░░░░░░░░░░░░░░░�
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mhihmi&count_private=true&hide_title=false&hide_border=true&show_icons=true&text_color=ffffff&title_color=22b455&icon_color=204829&bg_color=10,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,020204,204829,22b455,204829,020204,020204,020204,020204,020204,020204,020204&line_height=22&border_radius=10" /></a>
 </p>
+
+<details>
+  <summary><p align="center" style="font-size:12px">Privacy Notice</p></summary>
+  <p align="center" style="font-size:12px">
+  In compliance with the General Data Protection Regulation (GDPR), I am committed to protecting the privacy and personal data associated with this repository. The statistics on my daily coding time are collected and used solely by me for personal purposes. I oppose the use of my personal data excepted by me; the only person with rights to this data is its author, myself. This data will not be shared, sold, or used for any commercial purposes.
+  This privacy policy is applied retroactively to cover all data previously collected.
+  
+  Thank you for your understanding and cooperation.
+  </p>
+</details>
 </details>
 
 <br>
