@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2024 - To: 23 July 2024
+From: 17 July 2024 - To: 24 July 2024
 
-Total Time: 2 hrs 28 mins
+Total Time: 1 hr 50 mins
 
-Astro         1 hr 20 mins    █████████████▓░░░░░░░░░░░   54.02 %
-TypeScript    44 mins         ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-HTML          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Image (svg)   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-JSON          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Astro         1 hr 20 mins    ██████████████████░░░░░░░   72.45 %
+TypeScript    11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Image (svg)   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+HTML          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+JSON          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
