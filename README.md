@@ -23,15 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-Total Time: 19 mins
+Total Time: 0 secs
 
-Astro        14 mins         ██████████████████▓░░░░░░   74.77 %
-Markdown     4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
