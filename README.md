@@ -23,12 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
-Total Time: 26 mins
+Total Time: 0 secs
 
-JSON    14 mins         ██████████████░░░░░░░░░░░   56.36 %
-Astro   11 mins         ███████████░░░░░░░░░░░░░░   43.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
