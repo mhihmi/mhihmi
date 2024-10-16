@@ -23,11 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2024 - To: 14 October 2024
+From: 08 October 2024 - To: 15 October 2024
 
-Total Time: 0 secs
+Total Time: 3 hrs 32 mins
 
-No activity tracked
+YAML          2 hrs 51 mins   ███████████████████▒░░░░░   77.36 %
+JSON          22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Markdown      18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Other         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
