@@ -61,12 +61,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">studi-aws-course</span>
-                                <div class="bar" style="width: 72.616%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 72.8%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">91%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Portfolio</span>
-                                <div class="bar" style="width: 7.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                         </div>
@@ -76,22 +76,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 48.52%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 48.64%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">61%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 16.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">INI</span>
-                                <div class="bar" style="width: 6.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.175999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 5.911999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
