@@ -23,15 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2024 - To: 27 October 2024
+From: 21 October 2024 - To: 28 October 2024
 
-Total Time: 1 hr 2 mins
+Total Time: 42 mins
 
-YAML         42 mins         ████████████████▓░░░░░░░░   67.31 %
-Python       12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-INI          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML   42 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
