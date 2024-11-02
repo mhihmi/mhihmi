@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
-Total Time: 2 hrs 43 mins
+Total Time: 4 hrs 46 mins
 
-Markdown   1 hr 24 mins    █████████████░░░░░░░░░░░░   51.91 %
-YAML       45 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 %
-Text       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Python     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown      1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   39.69 %
+HTML          53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+CSS           49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+Text          22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+SCSS          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
