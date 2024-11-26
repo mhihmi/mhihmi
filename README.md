@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 7 hrs 33 mins
+Total Time: 6 hrs 44 mins
 
-Terraform    6 hrs 18 mins   ████████████████████▓░░░░   83.31 %
-HCL          1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Terraform    5 hrs 29 mins   ████████████████████▒░░░░   81.28 %
+HCL          1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
