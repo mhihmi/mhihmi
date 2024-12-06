@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-Total Time: 1 hr 7 mins
+Total Time: 1 hr 58 mins
 
-Markdown     27 mins         ██████████░░░░░░░░░░░░░░░   40.52 %
-CSS          21 mins         ████████░░░░░░░░░░░░░░░░░   31.57 %
-JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Git Config   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-MDX          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+MDX          1 hr 1 min      █████████████░░░░░░░░░░░░   51.85 %
+Astro        24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+CSS          23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Terraform    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
