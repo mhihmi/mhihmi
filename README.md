@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 30 November 2024 - To: 07 December 2024
 
-Total Time: 1 hr 58 mins
+Total Time: 5 hrs 31 mins
 
-MDX          1 hr 1 min      █████████████░░░░░░░░░░░░   51.85 %
-Astro        24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-CSS          23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Terraform    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+MDX           2 hrs 11 mins   ██████████░░░░░░░░░░░░░░░   39.77 %
+CSS           1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   30.69 %
+Astro         1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+JavaScript    22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Image (svg)   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
