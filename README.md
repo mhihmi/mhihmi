@@ -23,11 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 44 mins
 
-No activity tracked
+MDX          1 hr 59 mins    █████████████▒░░░░░░░░░░░   53.41 %
+JavaScript   1 hr 16 mins    ████████▓░░░░░░░░░░░░░░░░   34.00 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Terraform    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
