@@ -23,11 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 6 mins
 
-No activity tracked
+JSON         25 mins         █████████▓░░░░░░░░░░░░░░░   38.38 %
+Astro        24 mins         █████████▒░░░░░░░░░░░░░░░   37.49 %
+YAML         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+SCSS         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
