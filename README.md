@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2025 - To: 09 April 2025
+From: 03 April 2025 - To: 10 April 2025
 
-Total Time: 1 hr 6 mins
+Total Time: 3 hrs 36 mins
 
-JSON         25 mins         █████████▓░░░░░░░░░░░░░░░   38.38 %
-Astro        24 mins         █████████▒░░░░░░░░░░░░░░░   37.49 %
-YAML         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-SCSS         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON         1 hr 28 mins    ██████████▒░░░░░░░░░░░░░░   40.97 %
+Bash         34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+SCSS         30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Astro        24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+JavaScript   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
 ```
 
 <!--END_SECTION:waka-->
