@@ -23,15 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-Total Time: 2 hrs 39 mins
+Total Time: 8 mins
 
-JSON         1 hr 4 mins     ██████████░░░░░░░░░░░░░░░   40.13 %
-Bash         34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-SCSS         23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Markdown     19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-JavaScript   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Markdown   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
