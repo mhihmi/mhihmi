@@ -23,15 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Total Time: 3 hrs 37 mins
+Total Time: 2 hrs 46 mins
 
-Terraform    2 hrs 56 mins   ████████████████████▒░░░░   81.21 %
-HCL          34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Terraform   2 hrs 14 mins   ████████████████████░░░░░   80.40 %
+HCL         32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
 ```
 
 <!--END_SECTION:waka-->
