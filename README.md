@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
-Total Time: 2 hrs 21 mins
+Total Time: 2 hrs 45 mins
 
-Terraform   2 hrs 12 mins   ███████████████████████▒░   93.46 %
-HCL         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Bash        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Terraform   2 hrs 35 mins   ███████████████████████▓░   94.39 %
+HCL         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Bash        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
