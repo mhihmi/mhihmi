@@ -23,13 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 1 hr 10 mins
+Total Time: 1 hr 58 mins
 
-Terraform   1 hr 9 mins     ████████████████████████▓   98.62 %
-HCL         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Terraform    1 hr 32 mins    ███████████████████▒░░░░░   77.93 %
+MDX          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+JSON         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+JavaScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+HCL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
