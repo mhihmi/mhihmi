@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 30 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
 Total Time: 12 hrs 39 mins
 
-Terraform    7 hrs 47 mins   ███████████████▒░░░░░░░░░   61.53 %
-HCL          1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-JavaScript   47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Markdown     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Terraform    7 hrs 48 mins   ███████████████▒░░░░░░░░░   61.59 %
+HCL          3 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+Vue.js       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+SCSS         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
