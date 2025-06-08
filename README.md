@@ -23,13 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-Total Time: 1 hr 26 mins
+Total Time: 0 secs
 
-HCL         1 hr 25 mins    █████████████████████████   99.48 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
