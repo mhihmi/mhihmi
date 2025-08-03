@@ -23,12 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 01 August 2025
+From: 26 July 2025 - To: 02 August 2025
 
-Total Time: 53 mins
+Total Time: 59 mins
 
-YAML   43 mins         ████████████████████░░░░░   80.46 %
-JSON   10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+YAML   49 mins         ████████████████████▓░░░░   82.49 %
+JSON   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
 ```
 
 <!--END_SECTION:waka-->
