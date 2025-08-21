@@ -7,7 +7,7 @@
 <a href="#"><img src ="./img_sources/aboutMe.gif" width="100" alt="General Github Informations"></a>
 
 <details>
-<summary>&nbsp;&nbsp;<a href="#"><img src="./img_sources/MedLogo.png" width="20px" style="vertical-align:middle"></a>
+<summary>&nbsp;&nbsp;<a href="#"><img src="./img_sources/MedLogo.png" width="28px" style="vertical-align:middle"></a>
 &nbsp;<b>Personal Website</b></summary>
 <a href="https://www.mehdihilmi.fr"><img width="100%" alt="Personal Website Pagespeed" src="./metrics.plugin.pagespeed.svg"></a>
 </details>
@@ -127,5 +127,5 @@ Docker       40 mins         █▒░░░░░░░░░░░░░░░
 <a href="mailto:contact@mehdihilmi.fr"><img width ="38px" src="./img_sources/gmail.svg"/></a>&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/mhihmi"><img width ="32px" src="./img_sources/linked-in-alt.svg"/></a>&nbsp;&nbsp; 
 <a href="https://www.discordapp.com/users/728584217545670657"><img width ="38px" src="./img_sources/discord2.svg"/></a>&nbsp;&nbsp; 
-<a href="https://www.mehdihilmi.fr"><img width ="24px" src="./img_sources/MedLogo.png"/></a>&nbsp;&nbsp; 
+<a href="https://www.mehdihilmi.fr"><img width ="30px" src="./img_sources/MedLogo.png"/></a>&nbsp;&nbsp; 
 </div>
