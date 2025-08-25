@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
-Total Time: 15 hrs 37 mins
+Total Time: 17 hrs 11 mins
 
-Terraform    7 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.02 %
-Markdown     2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-HTML         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-HCL          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-YAML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Terraform    7 hrs 45 mins   ███████████░░░░░░░░░░░░░░   43.79 %
+Markdown     3 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+HTML         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+HCL          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+YAML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
