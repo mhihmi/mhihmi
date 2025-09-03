@@ -23,13 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Total Time: 3 hrs 52 mins
+Total Time: 4 hrs 43 mins
 
-Terraform   3 hrs 15 mins   █████████████████████░░░░   84.32 %
-YAML        34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Markdown    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Terraform         2 hrs 59 mins   ███████████████▓░░░░░░░░░   62.97 %
+Java Properties   39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+YAML              34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Markdown          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Java              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
