@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 7 hrs 8 mins
+Total Time: 7 hrs 10 mins
 
-Markdown          1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-Java Properties   1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-YAML              51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Docker            50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Bash              49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Markdown          1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 %
+Bash              1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+YAML              1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Docker            50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+SQL               33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
 ```
 
 <!--END_SECTION:waka-->
