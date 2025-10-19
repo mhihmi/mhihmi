@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Total Time: 3 hrs 15 mins
+Total Time: 3 hrs 16 mins
 
-Markdown    1 hr 30 mins    ███████████▓░░░░░░░░░░░░░   46.21 %
-MDX         1 hr 17 mins    ██████████░░░░░░░░░░░░░░░   39.50 %
-Terraform   27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+Markdown    1 hr 31 mins    ███████████▓░░░░░░░░░░░░░   46.60 %
+MDX         1 hr 17 mins    █████████▓░░░░░░░░░░░░░░░   39.22 %
+Terraform   27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
 HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
