@@ -23,14 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Total Time: 1 hr 36 mins
+Total Time: 2 hrs 12 mins
 
-Terraform    52 mins         █████████████▓░░░░░░░░░░░   54.73 %
-HCL          43 mins         ███████████▒░░░░░░░░░░░░░   45.15 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+HCL          1 hr 15 mins    ██████████████▒░░░░░░░░░░   56.98 %
+Terraform    56 mins         ██████████▓░░░░░░░░░░░░░░   42.81 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
