@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-Total Time: 3 hrs 27 mins
+Total Time: 5 hrs 33 mins
 
-Terraform   2 hrs 39 mins   ███████████████████▒░░░░░   76.75 %
-Markdown    41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-Bash        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Terraform   3 hrs 31 mins   ████████████████░░░░░░░░░   63.55 %
+Markdown    51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+YAML        48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Docker      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Bash        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
