@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-Total Time: 7 hrs 52 mins
+Total Time: 8 hrs 8 mins
 
-MDX          4 hrs 9 mins    █████████████▒░░░░░░░░░░░   52.86 %
-Markdown     2 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   37.11 %
-Astro        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+MDX          4 hrs 25 mins   █████████████▓░░░░░░░░░░░   54.38 %
+Markdown     2 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
+Astro        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
