@@ -23,15 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2026 - To: 13 March 2026
+From: 07 March 2026 - To: 14 March 2026
 
-Total Time: 3 hrs 5 mins
+Total Time: 0 secs
 
-MDX          2 hrs 22 mins         ███████████████████▒░░░░░   76.72 %
-Markdown     17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JSON         10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-CSS          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
